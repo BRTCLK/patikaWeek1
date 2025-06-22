@@ -9,6 +9,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PratikDegiskenlerUygulama",
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "pratikIfElse", "pratikIfElse\pratikIfElse.csproj", "{F5F29523-94E8-4253-AB8D-20FEA92166B5}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PratikSwitchCase", "PratikSwitchCase\PratikSwitchCase.csproj", "{7891B71B-2139-4FFD-9170-5364861AC19A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{F5F29523-94E8-4253-AB8D-20FEA92166B5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F5F29523-94E8-4253-AB8D-20FEA92166B5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F5F29523-94E8-4253-AB8D-20FEA92166B5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7891B71B-2139-4FFD-9170-5364861AC19A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7891B71B-2139-4FFD-9170-5364861AC19A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7891B71B-2139-4FFD-9170-5364861AC19A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7891B71B-2139-4FFD-9170-5364861AC19A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
