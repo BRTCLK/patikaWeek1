@@ -3,7 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.5.33414.496
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "pratikIlkUygulamam", "pratikIlkUygulamam\pratikIlkUygulamam.csproj", "{A104F754-8E4B-4501-9C1C-D964354BA95D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "pratikIlkUygulamam", "pratikIlkUygulamam\pratikIlkUygulamam.csproj", "{A104F754-8E4B-4501-9C1C-D964354BA95D}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PratikDegiskenlerUygulama", "PratikDegiskenlerUygulama\PratikDegiskenlerUygulama.csproj", "{667E0EA3-9617-445D-8528-A24FC35775F5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "pratikIfElse", "pratikIfElse\pratikIfElse.csproj", "{F5F29523-94E8-4253-AB8D-20FEA92166B5}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +19,14 @@ Global
 		{A104F754-8E4B-4501-9C1C-D964354BA95D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A104F754-8E4B-4501-9C1C-D964354BA95D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A104F754-8E4B-4501-9C1C-D964354BA95D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{667E0EA3-9617-445D-8528-A24FC35775F5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{667E0EA3-9617-445D-8528-A24FC35775F5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{667E0EA3-9617-445D-8528-A24FC35775F5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{667E0EA3-9617-445D-8528-A24FC35775F5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F5F29523-94E8-4253-AB8D-20FEA92166B5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F5F29523-94E8-4253-AB8D-20FEA92166B5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F5F29523-94E8-4253-AB8D-20FEA92166B5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F5F29523-94E8-4253-AB8D-20FEA92166B5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
