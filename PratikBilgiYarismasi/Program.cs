@@ -22,7 +22,7 @@ Console.WriteLine("a) Venüs   b) Mars");
 Console.Write("Cevabınız: ");
 string answer2 = Console.ReadLine().ToLower();
 
-if (answer2 == "a")
+if (answer2 == "b")
 {
     correctAnswers++;
     Console.WriteLine("Doğru cevap!");
